@@ -1,1 +1,8 @@
-
+body{
+  padding: 25px;
+	background-color: #191919;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jK9DJGz9VVCSqFAWNo6PYfsP7p63rw3mxA&s");
+}
+.title {
+	color: #bbbbbb;
+}
