@@ -4,6 +4,7 @@ body{
 }
 .title {
 	font-family: "Agdasima", sans-serif;
-	font-size: 200px;
+	font-weight: 400;
+	font-style: normal;
 	color: #00ff00;
 }
