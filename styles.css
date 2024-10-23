@@ -19,7 +19,7 @@ body{
 .rectangle {
 	width: 125%;
 	margin-top: -10%;
-	margin-left: -5%;
-	height: 50px;
+	margin-left: -10%;
+	height: 75px;
 	background: #0ee347;
 }
